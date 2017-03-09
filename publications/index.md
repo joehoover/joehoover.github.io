@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 excerpt: "Publications"
-search_omit: true
+search_omit: false
 ---
 
 #### Journal Articles
