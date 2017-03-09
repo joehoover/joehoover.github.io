@@ -3,14 +3,29 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
-
+- title: Publications
+  url: /publications/
+  
+#- title: Press
+#  url: /press/
+  
 - title: Blog
   url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
+  
+- title: Links
+  url: /links/
+  
+- title: CV
+  url: /cv/curriculum-vitae.pdf
 
 - title: Search
   url: /search/
+
+#- title: Articles
+#  url: /articles/
+
+
+#- title: Theme Setup
+#  url: /theme-setup/
+
+
