@@ -1,20 +1,23 @@
 # Site navigation links
 
+- title: Home
+  url: index.html
+
 - title: About
   url: /about/
 
 - title: Publications
   url: /publications/
-  
+
 #- title: Press
 #  url: /press/
-  
+
 - title: Blog
   url: /blog/
-  
+
 - title: Links
   url: /links/
-  
+
 - title: CV
   url: /cv/curriculum-vitae.pdf
 
