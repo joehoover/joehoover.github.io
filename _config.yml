@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: 'Joe Hoover'
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: "PhD Student, Social Psychology <br> University of Southern California, Los Angeles "
+logo: site_logo.png
 search: true
 url: https://joehoover.github.io
 
