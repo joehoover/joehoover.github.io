@@ -1,0 +1,8 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Research
+  url: /research/
+- title: CV
+  url: /cv/curriculum-vitae.pdf
