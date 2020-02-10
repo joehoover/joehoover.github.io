@@ -1,12 +1,25 @@
 ---
 layout: page
 title:
-excerpt: "Joe Hoover -- Computational Social Psychologist"
+excerpt: "Joe Hoover -- Computational Social Scientist"
 modified: 2014-08-08T19:44:38.564948-04:00
-image:
+image: 
 #  feature: so-simple-sample-image-4.jpg
 #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a computational social psychologist and postdoctoral fellow in the Kellogg Department of Management at Northwestern University. My research primarily investigates the psychological underpinnings of intergroup conflict and violence, with a specific focus on the role that morality plays in these phenomena. My work relies on methods from psychology, political science, econometrics, and computer science in order to ask questions such as: why are some people willing to engage in violent protest? Can we predict real-world violent protest from social media dynamics? And why do people engage in acts of hate? My work also directly engages with fundamental methodological issues, such as measuring psychological constructs in natural language and deriving reliable estimates from biased and non-representative data.
+![right-aligned-image](/images/image_with_border.jpg){: .align-right.bordered 
+height="350px" width="350"}
+I am a computational social psychologist and postdoctoral fellow in the Kellogg Department of Management and Organizations 
+at Northwestern University. 
+
+I rely on state-of-the-art computational methods and artificial intelligence to study the psychological underpinnings of intergroup conflict and violence, 
+with a specific focus on the role that morality plays in these phenomena. My research focuses on questions such as:
+
+* [Why do people engage in acts of hate](papers/preprint_hoover_bound_in_hatred.pdf)?
+* [Can we predict real-world violent protest from social media dynamics](hoover_protest_violence.pdf)?
+
+I also directly engage with fundamental methodological issues, 
+such as measuring psychological constructs in natural language and deriving reliable estimates from biased and non-representative 
+data.
