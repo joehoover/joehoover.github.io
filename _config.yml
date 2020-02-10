@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Joe Hoover"
 description: "Postdoctoral Fellow<br>Management and Organizations<br>Northwestern University"
-baseurl: # the subpath of your site, e.g. "/blog"
+#baseurl: # the subpath of your site, e.g. "/blog"
 url: "http://joe-hoover.com"
 #markdown: kramdown
 logo: #/images/head_shot_3.jpg
