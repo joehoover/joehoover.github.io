@@ -20,7 +20,7 @@ locale: en-US
 title: "Joe Hoover"
 description: "Postdoctoral Fellow<br>Management and Organizations<br>Northwestern University"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "http://joe-hoover.com"
 markdown: kramdown
 logo: #/images/head_shot_3.jpg
 date_format: "%B %-d, %Y"
