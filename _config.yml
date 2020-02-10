@@ -21,7 +21,7 @@ title: "Joe Hoover"
 description: "Postdoctoral Fellow<br>Management and Organizations<br>Northwestern University"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "http://joe-hoover.com"
-markdown: kramdown
+#markdown: kramdown
 logo: #/images/head_shot_3.jpg
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
