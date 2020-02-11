@@ -9,6 +9,9 @@ search_omit: false
 
 <center> <h1>Research </h1> </center>
 
+
+### Journal Articles 
+
 * **Hoover, J.**, Atari, M\*, Mostafazadeh, A\*, Kennedy, B\*, 
 Portillo-Wightman, G, Yeh, L, & Dehghani, M. (Under review). 
 Bound in Hatred: The role of group-based morality in acts of hate. 
@@ -47,10 +50,6 @@ Dictionaries and Distributions: Combining Expert Knowledge and Large Scale Textu
 *Behavior Research Methods*.
 [pdf](http://morteza-dehghani.net/wp-content/uploads/DDR.pdf)
 
-* **Hoover**, **J.**, Horton, K., & Dehghani, M. (2017). 
-Investigating the psychometricproperties of distributed representations of latent moral concepts. 
-*In Proceedings of annual conference of the cognitive science society*
-
 * Boghrati, R., **Hoover**, **J.**, Johnson, K. M., Garten, J., Dehghani, M. 
 (2017). Conversation level syntax similarity metric. Behavior Research Methods. [pdf](/papers/CASSIM.pdf)
 
@@ -67,26 +66,44 @@ Purity Homophily in Social Networks.
 [pdf](http://morteza-dehghani.net/wp-content/uploads/purityHomophily.pdf)
 
 
-* Boghrati, R., **Hoover**, **J.**, Johnson, K. M., Garten, J., Dehghani, M. 
-* (2016). 
-Syntax Accommodation in Social Media Conversations. 
-In the proceedings of 37th Annual Conference of the Cognitive Science Society
-
-* Garten, J., Boghrati, R., **Hoover, J.**, Johnson, K. M., Dehghani, M. 
-* (2016). 
-Morality Between the Lines: Detecting Moral Sentiment in Text. 
-In the proceedings of IJCAI 2016 workshop on Computational Modeling of Attitudes 
-
 * Dehghani, M., Johnson, K. M., Garten, J., Boghrati, R., **Hoover, J.**, Balasubramanian, V., Singh, A., Shankar, Y., Pulickal, L., Rajkumar, A., Parmar, N. J. 
 (2016). 
 TACIT: An open-source text analysis, crawling, and interpretation tool. 
 Behavior research methods. 
 [pdf](http://morteza-dehghani.net/wp-content/uploads/TACIT.pdf)
 
+
+### Proceedings 
+
+* Garten, J., Kennedy, B., **Hoover**, **J.**, Sagae, K., Dehghani, M. (2018). 
+Language in Context: Incorporating Demographic Embeddings into Language Understanding. 
+*In the proceedings of 30th Annual Conference of the Cognitive Science Society (CogSci)*.
+
+* Lin, Y., **Hoover**, **J.**, Portillo-Wightman, G., Park, C., Dehghani, M., Ji, H. 
+(2018). 
+Acquiring Background Knowledge to Improve Moral Value Prediction. 
+*2018 IEEE/ACM InternationalConference on Advances in Social Networks Analysis and Mining (ASONAM2018)*. 
+[pdf](/papers/moralvalue2018.pdf)
+
+* **Hoover**, **J.**, Horton, K., & Dehghani, M. (2017). 
+Investigating the psychometricproperties of distributed representations of latent moral concepts. 
+In Proceedings of the *Annual Conference of the Cognitive Science Society.*
+
+* Boghrati, R., **Hoover**, **J.**, Johnson, K. M., Garten, J., Dehghani, M. 
+* (2016). 
+Syntax Accommodation in Social Media Conversations. 
+In the proceedings of *37th Annual Conference of the Cognitive Science Society*.
+
+* Garten, J., Boghrati, R., **Hoover, J.**, Johnson, K. M., Dehghani, M. 
+(2016). 
+Morality Between the Lines: Detecting Moral Sentiment in Text. 
+In the proceedings of *IJCAI 2016 workshop on Computational Modeling of Attitudes*.
+
+
+### Book Chapters
+
 * **Hoover**, **J.**, Dehghani, M., Johnson, K., Iliev, R., Graham, J. (2015). 
 Into The Wild: Big Data Analytics in Moral Psychology. [pdf](/papers/into_the_wild.pdf)
-
-
 
 
 <!--![right-aligned-image](/images/bih_map-1.png){: .align-right.bordered -->
