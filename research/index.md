@@ -78,7 +78,7 @@ Morality Between the Lines: Detecting Moral Sentiment in Text.
 In the proceedings of IJCAI 2016 workshop on Computational Modeling of Attitudes 
 
 * Dehghani, M., Johnson, K. M., Garten, J., Boghrati, R., **Hoover, J.**, Balasubramanian, V., Singh, A., Shankar, Y., Pulickal, L., Rajkumar, A., Parmar, N. J. 
-* (2016). 
+(2016). 
 TACIT: An open-source text analysis, crawling, and interpretation tool. 
 Behavior research methods. 
 [pdf](http://morteza-dehghani.net/wp-content/uploads/TACIT.pdf)
