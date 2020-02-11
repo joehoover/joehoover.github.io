@@ -22,7 +22,7 @@ description: "Postdoctoral Fellow<br>Management and Organizations<br>Northwester
 #baseurl: # the subpath of your site, e.g. "/blog"
 url: "http://joe-hoover.com"
 #markdown: kramdown
-logo: #/images/head_shot_3.jpg
+logo: "/images/mym_square.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -91,7 +91,7 @@ defaults:
 # Site Author
 author:
   name: Joe Hoover
-  picture:
+  picture: bih_map-1.png
   email: joseph.hoover@kellogg.northwestern.edu
   twitter: JoeEHoover
   links:
