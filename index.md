@@ -21,5 +21,11 @@ with a specific focus on the role that morality plays in these phenomena. My res
 * [Can we predict real-world violent protest from social media dynamics](hoover_protest_violence.pdf)?
 
 I also directly engage with fundamental methodological issues, 
-such as measuring psychological constructs in natural language and deriving reliable estimates from biased and non-representative 
-data.
+such as measuring psychological constructs in natural language and deriving reliable 
+estimates from biased and non-representative 
+data. 
+
+For example, working with [YourMorals.org](http://yourmorals.org), 
+I've developed population adjusted estimates of the county-level distribution of moral values 
+in the United States. For an interactive visualization of this work, you can vist 
+[Map Your Morals](https://mapyourmorals.usc.edu/#/).
