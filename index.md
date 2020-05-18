@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-excerpt: "Joe Hoover -- Computational Social Scientist"
+excerpt: "Joe Hoover -- Data Scientist | Computational Social Scientist"
 modified: 2014-08-08T19:44:38.564948-04:00
 image: 
 #  feature: so-simple-sample-image-4.jpg

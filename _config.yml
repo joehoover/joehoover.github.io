@@ -107,6 +107,9 @@ footer_links:
   - title: Email
     url: mailto:joseph.hoover@kellogg.northwestern.edu
     icon: fas fa-envelope-square
+  - title: linkedin 
+    url: https:/linkedin/in/JoeEHoover
+    icon: fab fa-linkedin-in
   - title: twitter
     url: https://twitter.com/JoeEHoover
     icon: fab fa-twitter-square

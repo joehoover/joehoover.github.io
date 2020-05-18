@@ -13,8 +13,8 @@ search_omit: false
 ### Journal Articles 
 
 * **Hoover, J.**, Atari, M\*, Mostafazadeh, A\*, Kennedy, B\*, 
-Portillo-Wightman, G, Yeh, L, & Dehghani, M. (Under review). 
-Bound in Hatred: The role of group-based morality in acts of hate. 
+Portillo-Wightman, G, Yeh, L, & Dehghani, M. (Revise and resubmit). 
+Bound in Hatred: The role of group-based morality in acts of hate. *Nature Communications*.
 [pdf](/papers/preprint_hoover_bound_in_hatred.pdf)
 
 * **Hoover, J.**, Dehghani, M. (2019). 
