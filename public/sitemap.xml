@@ -1,0 +1,9 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://joe-hoover.com/research/</loc><lastmod>2023-02-17T14:10:11-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://joe-hoover.com/about/</loc><lastmod>2023-02-14T13:19:26-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://joe-hoover.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://joe-hoover.com/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://joe-hoover.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
