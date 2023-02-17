@@ -101,7 +101,7 @@ mobileMode = "auto"
 # URL of the LOGO
 logo = ""
 # title name
-name = "Joe Hoover"
+name = "Joe Hoover, PhD"
 # you can add extra information before the name (HTML format is supported), such as icons
 #pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
 # you can add extra information after the name (HTML format is supported), such as icons
@@ -323,7 +323,7 @@ copy = true
 maxShownLines = 50
 # KaTeX mathematical formulas config (KaTeX https://katex.org/)
 [params.page.math]
-enable = false
+enable = true
 # default inline delimiter is $ ... $ and \( ... \)
 inlineLeftDelimiter = ""
 inlineRightDelimiter = ""
