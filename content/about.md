@@ -12,8 +12,8 @@ I'm currently looking for my next big project! I'm primarily interested in leade
 
 ## Blog
 
-I'm launching a blog focused on putting LLMs in production! I've worked on many aspects of this process and I continue to be surprised by how hard it is, particularly around the edges of each phase. There are a proliferation of tools that ease parts of the process, but it remains difficult to stitch everything together. The blog is a gift to my future-self (and others, if they find some use in it) that aims to treat some of the primary pain points that we encounter when prototyping, productionizing, and deploying ML systems that rely on LLMs. I'm going to focus on deep-dives and with comprehensive code and reproducible repositories that can be used as patterns for solutions to common problems. 
+I'm launching a blog focused on putting LLMs in production! I've worked on many aspects of this process and I continue to be surprised by how hard it is, particularly around the edges of each phase. There are a proliferation of tools that ease parts of the process, but it remains difficult to stitch everything together. The blog is a gift to my future-self (and others, if they find some use in it) that aims to treat some of the primary pain points that we encounter when prototyping, productionizing, and deploying ML systems that rely on LLMs. I'm going to focus on deep-dives with comprehensive code and reproducible repositories that can be used as patterns for solutions to common problems. 
 
 ## Consulting and Advisement
 
-I consult on architecture, AI strategy, and end-to-end (proposal through production implementation) projects. If you're interested in working together, please feel free to get in touch!
+I consult on architecture, AI strategy, and end-to-end projects. If you're interested in working together, please feel free to get in touch!
