@@ -13,7 +13,3 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
-
-.caption {
-    @apply text-sm; /* This applies the Tailwind CSS class for small text */
-  }

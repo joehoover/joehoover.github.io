@@ -75,7 +75,7 @@ export default function ContactForm() {
                           focus:ring-gray-500 focus:border-gray-500
                           border-gray-300
                           dark:bg-black"
-              placeholder="Name"
+              placeholder="Full name"
               onChange={(e) => handleName(e)}
             />
           </div>

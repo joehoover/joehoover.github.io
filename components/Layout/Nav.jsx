@@ -6,10 +6,10 @@ import Highlight from '../Utils/Highlight'
 import { useRouter } from 'next/router'
 
 const navigation = [
-    {
-    name: "Blog",
-    href: "/"
-  },
+  // {
+  //   name: "Home",
+  //   href: "/"
+  // },
   {
     name: 'About',
     href: '/about',
@@ -42,7 +42,7 @@ export default function Nav({ darkMode, setDarkMode }) {
                 <div className="flex-shrink-0 flex items-center pr-4">
                   <Highlight>
                     <Link href={'/'}>
-                      <a>Joe Hoover, PhD</a>
+                      <a>Notes</a>
                     </Link>
                   </Highlight>
                 </div>

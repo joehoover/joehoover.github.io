@@ -2,35 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog-starter.sandypockets.dev/about</loc>
-    <lastmod>1/16/2024</lastmod>
+    <lastmod>1/17/2024</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://blog-starter.sandypockets.dev/contact</loc>
-    <lastmod>1/16/2024</lastmod>
+    <lastmod>1/17/2024</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://blog-starter.sandypockets.dev/</loc>
-    <lastmod>1/16/2024</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://blog-starter.sandypockets.dev/posts/getting-started</loc>
-    <lastmod>1/16/2024</lastmod>
+    <lastmod>1/17/2024</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://blog-starter.sandypockets.dev/posts/hello-world</loc>
-    <lastmod>1/16/2024</lastmod>
+    <lastmod>1/17/2024</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

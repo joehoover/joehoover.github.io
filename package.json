@@ -20,7 +20,7 @@
     "type": "git",
     "url": "https://github.com/sandypockets/nextjs-blog-starter.git"
   },
-  "homepage": "https://blog-starter.sandypockets.dev",
+  "homepage": "http://joehoover.github.io",
   "dependencies": {
     "@headlessui/react": "^1.4.0",
     "@heroicons/react": "^1.0.4",
