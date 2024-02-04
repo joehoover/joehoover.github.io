@@ -6,10 +6,10 @@ import Highlight from '../Utils/Highlight'
 import { useRouter } from 'next/router'
 
 const navigation = [
-    {
-    name: "Blog",
-    href: "/"
-  },
+  // {
+  //   name: "Home",
+  //   href: "/"
+  // },
   {
     name: 'About',
     href: '/about',
@@ -42,23 +42,24 @@ export default function Nav({ darkMode, setDarkMode }) {
                 <div className="flex-shrink-0 flex items-center pr-4">
                   <Highlight>
                     <Link href={'/'}>
-                      <a>Joe Hoover, PhD</a>
+                      Notes
                     </Link>
                   </Highlight>
                 </div>
                 <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
                   {navigation.map((item, index) => (
-                    <Link key={index} href={item.href}>
-                      <a
-                        className={
-                          currentPath === item.href
-                            ? 'border-transparent text-gray-500 border-gray-700 text-gray-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium dark:border-gray-200 dark:text-gray-200'
-                            : 'border-transparent text-gray-500 hover:border-gray-700 hover:text-gray-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium dark:text-gray-300 dark:hover:border-gray-200 dark:hover:text-gray-200'
-                        }
-                      >
-                        {item.name}
-                      </a>
-                    </Link>
+                    (<Link
+                      key={index}
+                      href={item.href}
+                      className={
+                        currentPath === item.href
+                          ? 'border-transparent text-gray-500 border-gray-700 text-gray-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium dark:border-gray-200 dark:text-gray-200'
+                          : 'border-transparent text-gray-500 hover:border-gray-700 hover:text-gray-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium dark:text-gray-300 dark:hover:border-gray-200 dark:hover:text-gray-200'
+                      }>
+
+                      {item.name}
+
+                    </Link>)
                   ))}
                 </div>
               </div>
@@ -82,17 +83,18 @@ export default function Nav({ darkMode, setDarkMode }) {
           <Disclosure.Panel className="sm:hidden pb-5">
             <div className="pt-2 pb-3 space-y-1">
               {navigation.map((item, index) => (
-                <Link key={index} href={item.href}>
-                  <a
-                    className={
-                      currentPath === item.href
-                        ? 'border-transparent text-gray-500 dark:hover:text-gray-600 hover:bg-gray-50 border-gray-500 text-gray-800 dark:text-gray-100 block pl-3 pr-4 py-2 border-l-4 text-base font-medium'
-                        : 'border-transparent text-gray-500 dark:text-gray-300 dark:hover:text-gray-600 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium'
-                    }
-                  >
-                    {item.name}
-                  </a>
-                </Link>
+                (<Link
+                  key={index}
+                  href={item.href}
+                  className={
+                    currentPath === item.href
+                      ? 'border-transparent text-gray-500 dark:hover:text-gray-600 hover:bg-gray-50 border-gray-500 text-gray-800 dark:text-gray-100 block pl-3 pr-4 py-2 border-l-4 text-base font-medium'
+                      : 'border-transparent text-gray-500 dark:text-gray-300 dark:hover:text-gray-600 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium'
+                  }>
+
+                  {item.name}
+
+                </Link>)
               ))}
             </div>
             <div className="flex justify-center">
@@ -102,5 +104,5 @@ export default function Nav({ darkMode, setDarkMode }) {
         </>
       )}
     </Disclosure>
-  )
+  );
 }

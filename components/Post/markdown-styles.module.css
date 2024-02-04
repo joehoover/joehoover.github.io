@@ -107,7 +107,3 @@
 .markdown table {
   @apply table-auto;
 }
-
-.caption {
-  font-size: 0.2em;  /* Adjust this value to get the desired size */
-}
